@@ -39,7 +39,7 @@ Cara Instalasi & Menjalankan
 1. Clone repository
 
 ```
-git clone https://github.com/username/toko-buku.git
+git clone https://github.com/Dianherixkusuma/toko-buku.git
 ```
 
 2. Masuk ke folder project
