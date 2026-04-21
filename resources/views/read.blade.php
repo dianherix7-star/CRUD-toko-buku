@@ -35,7 +35,7 @@
             <td>{{ $item->tahun_terbit }}</td>
             <td>
                 <a href="{{ route('buku.edit', $item->id) }}" class="btn btn-edit">Edit</a>
-                <a href="{{ route('buku.delete', $item->id) }} onclick="return confirm('hapus tol?')">hapus</a>
+                <a href="{{ route('buku.delete', $item->id) }}" onclick="return confirm('hapus?')">hapus</a>
             </td>
         </tr>
         @endforeach
